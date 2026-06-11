@@ -128,7 +128,7 @@ so that I do not worry if I forget it.
 
 It is convenient to user to recover the password.
 
-## US-11: Short title
+## US-11: Websites checking
 
 **Requirement Status:** Active
 **MoSCoW priority:** Won't Have
