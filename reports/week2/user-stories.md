@@ -144,4 +144,4 @@ Users must have fair conditions.
 
 ## Initial proposed MVP v1 scope
 
-US-01, US-02, US-04, US-05, US_07
+US-01, US-02, US-04, US-05, US-07
