@@ -1,3 +1,7 @@
+## Personas
+User - a person, who operates, or interacts with a product.
+Owner - a person, who owns the project.
+
 ## US-01: Subscription to a team
 
 **Requirement Status:** Active
