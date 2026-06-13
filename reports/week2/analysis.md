@@ -44,6 +44,7 @@ Our MVP v0 became a frontend site with minimal backend, which:
 ## Needs clarification
 
 1)Questions to customer -
+
 2)Technical Risks - The parser may not work on some websites
 
 ## 6.4 Planned Response
